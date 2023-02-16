@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b91e250c.css",
+    "main.js": "/static/js/main.490c05c3.js",
+    "static/media/video.mp4": "/static/media/video.7c89d725a57957b8071d.mp4",
+    "static/media/intro.mp4": "/static/media/intro.47687fed7c878b229fee.mp4",
+    "static/media/teamImage.webp": "/static/media/teamImage.b39f4506a9c3e0725681.webp",
+    "static/media/section2.webp": "/static/media/section2.d3e78de99370427aaf1b.webp",
+    "static/media/sec3.webp": "/static/media/sec3.61e6d4d90e46f9e19cab.webp",
+    "static/media/scrollimg1.webp": "/static/media/scrollimg1.f39390025f9d7de580db.webp",
+    "static/media/image.webp": "/static/media/image.47748c15ca6da571b37e.webp",
+    "static/media/background.webp": "/static/media/background.612c25ba1dae60f2dda7.webp",
+    "static/media/Logo1.webp": "/static/media/Logo1.7efff5c0274e489677e6.webp",
+    "index.html": "/index.html",
+    "main.b91e250c.css.map": "/static/css/main.b91e250c.css.map",
+    "main.490c05c3.js.map": "/static/js/main.490c05c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b91e250c.css",
+    "static/js/main.490c05c3.js"
+  ]
+}
